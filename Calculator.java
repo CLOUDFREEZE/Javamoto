@@ -6,7 +6,7 @@ package Calculator;
 
 /**
  *
- * @author JOREK
+ * @author JOSH
  */
 public class Calculator extends javax.swing.JFrame {
 
